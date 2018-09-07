@@ -20,6 +20,7 @@
 
 ## Videos
 Videos can be found [here](https://www.youtube.com/playlist?list=PL0medk5vA90qYkcUAws0tqMiSzxmk6SU7)!
+(and a few more [here](https://www.youtube.com/playlist?list=PLpwb_gau5V3XBlHutqDfN2fMAzcMv_Ij7)!)
 
 ## Notes
 You can make a Github account and use it to go to the issues tab on this page and file `issues` with the README or any part of this setup/codebase that isn't working for you!
